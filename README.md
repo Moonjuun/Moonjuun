@@ -89,16 +89,16 @@ Bachelor Degree of Energy Resources Engineering ```(03/2016 ~ 08/2021)``` (Pukyo
 <br><br>
 <div align="center">
 <!-- My profile -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOONJUUN&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-<img src="https://github-readme-stats.vercel.app/api?username=MOONJUUN&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MOONJUUN&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moonjuun&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+<img src="https://github-readme-stats.vercel.app/api?username=Moonjuun&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Moonjuun&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 
 <!-- My snake -->
-<img src="https://github.com/MOONJUUN/MOONJUUN/blob/output/mysnake.svg" width="100%">
+<img src="https://github.com/Moonjuun/Moonjuun/blob/output/mysnake.svg" width="100%">
 
 <br><br>
 <!-- Hit counter -->
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMOONJUUN&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMoonjuun&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
 <br><br><br><br>
 
 <!-- Footer banner -->
