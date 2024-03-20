@@ -94,7 +94,7 @@ Bachelor Degree of Energy Resources Engineering ```(03/2016 ~ 08/2021)``` (Pukyo
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moonjuun&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 
 <!-- My snake -->
-<img src="https://github.com/Moonjuun/Moonjuun/blob/output/mysnake.svg" width="100%">
+<img src="https://github.com/Moonjuun/Moonjuun/blob/output/github-contribution-grid-snake.svg" width="100%">
 
 <br><br>
 <!-- Hit counter -->
