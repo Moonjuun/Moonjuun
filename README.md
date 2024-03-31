@@ -26,7 +26,11 @@ Here are some ideas to get you started:
 <br>
 <!-- My CV/resume -->
 <details>
-<summary>About Me</summary>
+<summary>
+   <h2>
+       About Me
+   </h2> 
+</summary>
 <br><br>
 <span>
   <a href="https://puenti.tistory.com/">
